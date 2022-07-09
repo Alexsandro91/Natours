@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "jquery": "^3.6.0",
-    "live-server": "^1.2.1"
+    "live": "^0.1.25-beta.0",
+    "live-server": "^1.2.2",
+    "server": "^1.0.37"
   }
 }
